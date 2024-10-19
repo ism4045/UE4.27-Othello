@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8479A29A-4AFC-7049-5D56-79B446BE9853}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Othello",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG",
+				"Engine"
+			]
+		}
+	]
+}
